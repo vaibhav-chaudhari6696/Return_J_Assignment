@@ -4,8 +4,8 @@
     2.Clone the repository.
     3. Navigate to the project folder in the terminal.
     4.Run the following commands:
-   	  npm install 
-      npm start
+        npm install 
+        npm start
     5.To test endpoints with tool like Postman endpoints URL and details are mentioned in documentation file.
 
 3) To execute written unit tests Run following command:
